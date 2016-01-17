@@ -1192,12 +1192,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/shorecms/shorecms.git",
-                "reference": "8ecc0b2300d056c65c51c551befe3750cc8bb149"
+                "reference": "5ded6eec4207028cecdc8e7cd48225f78681a7b1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/shorecms/shorecms/zipball/8ecc0b2300d056c65c51c551befe3750cc8bb149",
-                "reference": "8ecc0b2300d056c65c51c551befe3750cc8bb149",
+                "url": "https://api.github.com/repos/shorecms/shorecms/zipball/5ded6eec4207028cecdc8e7cd48225f78681a7b1",
+                "reference": "5ded6eec4207028cecdc8e7cd48225f78681a7b1",
                 "shasum": ""
             },
             "require": {
@@ -1244,7 +1244,7 @@
                 "source": "https://github.com/shorecms/shorecms/tree/master",
                 "issues": "https://github.com/shorecms/shorecms/issues"
             },
-            "time": "2016-01-14 22:57:03"
+            "time": "2016-01-17 12:39:47"
         },
         {
             "name": "swiftmailer/swiftmailer",
