@@ -39,6 +39,8 @@ twig:
     strict_variables: "%kernel.debug%"
     globals:
         site_title:   "%site_title%"
+    form_themes:
+        - CoreBundle:form:layout.html.twig
 
 # Doctrine Configuration
 doctrine:
